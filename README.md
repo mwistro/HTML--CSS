@@ -11,7 +11,17 @@ Então, é hora de botar a mão na massa de novo e continuar aprendendo com o Gu
 Aqui você vai encontrar todos os exercícios atualizados que fiz durante o curso em vídeo do Guanabara. Vamos juntos nessa jornada de aprendizado! 💪💻
 
 
-#####################################
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
 
 
 
