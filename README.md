@@ -12,16 +12,6 @@ Aqui você vai encontrar todos os exercícios atualizados que fiz durante o curs
 
 
 #
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
 
 
 
