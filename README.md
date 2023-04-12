@@ -1,4 +1,4 @@
-##  Português :brazil:
+## :brazil: Português
 
 E aí! Aqui é o repositório dos meus exercícios do curso em vídeo do Guanabara! 😃💻
 
@@ -15,7 +15,7 @@ Aqui você vai encontrar todos os exercícios atualizados que fiz durante o curs
 
 
 
-##  English :us:
+## :us: English
 
 Hey there! This is my repository for exercises from Guanabara's video course! 😃💻
 
